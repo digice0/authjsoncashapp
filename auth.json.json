@@ -1,0 +1,15 @@
+{
+  "token_type": "Bearer",
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXJpYWwiOiJkcmFrZWx1YWsxIiwiaWF0IjoxNzIyNz MzNjY2.dW19Jfdmv-1upnCm-bVnhwbA093wEQL3_uUpYct37Aw",
+  "display_name": "@henry s",
+  "formatted_cashtag": "$@reclusivity",
+  "is_verified_account": false,
+  "rate_plan": "PERSONAL",
+  "payment_button_type": "PAY",
+  "country_code": "US",
+  "avatar": {
+    "image_url": "https://cash-images-f.squaredcdn.com/apps/imgs/epvswOw0CMZloQFofkhaKD.jpeg?width=288",
+    "initial": "",
+    "accent_color": "#"
+  }
+}
